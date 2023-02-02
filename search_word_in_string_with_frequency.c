@@ -20,7 +20,6 @@ int main(){
         }
 
         if(count==strlen(s)){
-            // printf("Word found at index %d",index);exit(1);
             freq++;
             count=0;
         }
